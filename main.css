@@ -5,34 +5,36 @@
 }
 
 .first {
-   border: 2px solid red;
+   border: 2px solid #FA7154;
    border-radius: 10px;
-   width: 300px;
+   width: 500px;
    height: 250px;
    position: relative;
-   left: 50px;
+   left: 100px;
    text-align: center;
+   background-color: #fafafa;
 }
 
 .second {
     width: 600px;
     height: 250px;
-    border: 2px solid blue;
+    border: 2px solid #495CEA;
     border-radius: 20px;
     text-align: center;
+    background-color: #fafafa;
 }
 
 .third {
     width: 1000px;
     height: 200px;
-    border: 2px solid green;
+    border: 2px solid #A9D1AE;
     position: relative;
 }
 
 .fourth {
     width: 400px;
     height: 150px;
-    border: 2px solid red;
+    border: 2px solid #DC555D;
     position: absolute;
     top: 10px;
     right: 10px;
